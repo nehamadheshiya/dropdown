@@ -1,0 +1,37 @@
+
+
+   .dropdown{
+    height:80vh;
+   }
+   .dropdownButton{
+    background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+   }
+
+
+  
+.dropdownList {
+   height:25%;
+   list-style: none;
+   color: black;
+   font-size: 1.2rem;
+   font-weight: bold;
+  }
+  
+  .dropdownList li {
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  .selectedItem{
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  
+  
